@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b848d6b9-369f-4d69-ae2e-34c51eb087de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XxIWpcS2w2y1zs2FhtCWSKoRSQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/FeatureFile" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pdars\IdeaProjects\demonoppcommerce\Webpage1opm\Webpage1opm\Demonopcommece\src\test\resources\FeatureFile" />
+      <recent name="C:\Users\pdars\IdeaProjects\demonoppcommerce\Webpage1opm\Webpage1opm\Demonopcommece\src\test\resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuit.guestUserShouldBeAbleToAddNewComment">
+    <configuration name="TestSuit.guestUserShouldBeAbleToAddNewComment" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demonopcommece" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest3" />
+      <option name="MAIN_CLASS_NAME" value="WebTest3.TestSuit" />
+      <option name="METHOD_NAME" value="guestUserShouldBeAbleToAddNewComment" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldBeAbleToVerifyCurrency" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demonopcommece" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest3" />
+      <option name="MAIN_CLASS_NAME" value="WebTest3.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToVerifyCurrency" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.verifyAddToCartButtonIsPresentOnAllFeaturedProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demonopcommece" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest3" />
+      <option name="MAIN_CLASS_NAME" value="WebTest3.TestSuit" />
+      <option name="METHOD_NAME" value="verifyAddToCartButtonIsPresentOnAllFeaturedProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.verifyGetThePriceForEachProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demonopcommece" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest3" />
+      <option name="MAIN_CLASS_NAME" value="WebTest3.TestSuit" />
+      <option name="METHOD_NAME" value="verifyGetThePriceForEachProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.verifyGuestUserShouldBeAbleToCheckOutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demonopcommece" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest3" />
+      <option name="MAIN_CLASS_NAME" value="WebTest3.TestSuit" />
+      <option name="METHOD_NAME" value="verifyGuestUserShouldBeAbleToCheckOutSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuit.guestUserShouldBeAbleToAddNewComment" />
+        <item itemvalue="TestNG.TestSuit.userShouldBeAbleToVerifyCurrency" />
+        <item itemvalue="TestNG.TestSuit.verifyAddToCartButtonIsPresentOnAllFeaturedProduct" />
+        <item itemvalue="TestNG.TestSuit.verifyGuestUserShouldBeAbleToCheckOutSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.verifyGetThePriceForEachProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b848d6b9-369f-4d69-ae2e-34c51eb087de" name="Default Changelist" comment="" />
+      <created>1581981352368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581981352368</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582759686231">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1582759686231" />
+    <state x="436" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582687211814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="436" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582687211814" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1582601095530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582601095530" />
+    <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582679541926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582679541926" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581984062164">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581984062164" />
+    <state x="441" y="237" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582687311666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="237" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1582687311666" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1582755063608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582755063608" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582760412170">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582760412170" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582760412170">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582760412170" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582760412170">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582760412170" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582760412170">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582760412170" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1582601485630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1582601485630" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1582152909427">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582152909427" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582593694812">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582593694812" />
+  </component>
+</project>
